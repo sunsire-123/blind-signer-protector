@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+pandas
+torch
+transformers
+tf-keras
+fastapi
+uvicorn
+python-multipart
+fpdf
